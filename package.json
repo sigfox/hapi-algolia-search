@@ -1,0 +1,26 @@
+{
+  "name": "hapi-algolia-search",
+  "version": "1.0.0-alpha",
+  "description": "Hapi plugin for Algolia Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sigfox/hapi-algolia-search.git"
+  },
+  "keywords": [
+    "hapi",
+    "hapijs",
+    "algolia",
+    "algoliasearch",
+    "search"
+  ],
+  "author": "Frederik Eychenié <frederik.eychenie@sigfox.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sigfox/hapi-algolia-search/issues"
+  },
+  "homepage": "https://github.com/sigfox/hapi-algolia-search#readme"
+}
