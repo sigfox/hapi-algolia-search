@@ -1,7 +1,7 @@
 {
   "name": "hapi-algolia-search",
   "version": "1.0.0-alpha",
-  "description": "Hapi plugin for Algolia Search",
+  "description": "Simple Hapi plugin for Algolia Search",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/sigfox/hapi-algolia-search/issues"
   },
-  "homepage": "https://github.com/sigfox/hapi-algolia-search#readme"
+  "homepage": "https://github.com/sigfox/hapi-algolia-search",
+  "dependencies": {
+    "algoliasearch": "^3.9.3",
+    "hoek": "^3.x.x"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
 }
