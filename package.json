@@ -1,6 +1,6 @@
 {
   "name": "hapi-algolia-search",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0",
   "description": "Simple Hapi plugin for Algolia Search",
   "main": "index.js",
   "scripts": {
