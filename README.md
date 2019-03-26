@@ -1,5 +1,7 @@
 # hapi-algolia-search
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sigfox/hapi-algolia-search.svg)](https://greenkeeper.io/)
+
 Hapi plugin wrapping the JS [Algolia Search client](https://github.com/algolia/algoliasearch-client-js)
 
 [Algolia](https://www.algolia.com/) is a "Search Engine as a Service", with high performance, great docs, and API clients available for many languages. Check it out !
