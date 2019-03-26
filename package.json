@@ -25,7 +25,7 @@
   "homepage": "https://github.com/sigfox/hapi-algolia-search",
   "dependencies": {
     "algoliasearch": "^3.9.3",
-    "hoek": "^3.x.x"
+    "hoek": "^6.1.2"
   },
   "engines": {
     "node": ">=4.0.0"
